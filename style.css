@@ -108,8 +108,9 @@ button {
   border-radius: 22.5px;
   border: none;
   font-size: 1rem;
-  font-weight: 600;
+  font-weight: 700;
   cursor: pointer;
+  letter-spacing: 2px;
 }
 
 button:hover {
